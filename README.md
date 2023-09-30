@@ -1,1 +1,1 @@
-# 932101.kopylov.danila.lab2
+# 932101.dik.ivan.lab2

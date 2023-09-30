@@ -19,6 +19,7 @@
     flex: 1 1 auto;
     display: flex;
     height: 100%;
+	line-height: 1.35em;
 }
 
 .content__sidebar {
